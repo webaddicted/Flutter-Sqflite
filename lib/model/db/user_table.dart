@@ -25,7 +25,8 @@ class UserTable {
 
   static Future<int> insertUser(UserBean userInfo) async {
     Database dbClient = await dbHelper.database;
-    return await dbClient.insert(USER_LOGIN_TABLE, userInfo.toMap());
+    return await dbClient.insert(USER_LOGIN_TABLE, userInfo.toMap(),
+                                conflictAlgorithm: ConflictAlgorithm.replace);
   }
 
   static Future<List> checkUserExist(String emailId) async {
@@ -66,7 +67,8 @@ class UserTable {
   static Future<int> updateUser(UserBean loginUser) async {
     Database dbClient = await dbHelper.database;
     return await dbClient.update(USER_LOGIN_TABLE, loginUser.toMap(),
-        where: '$USER_EMAILID = ?', whereArgs: [loginUser.emailId]);
+        where: '$USER_EMAILID = ?', whereArgs: [loginUser.emailId],
+                                conflictAlgorithm: ConflictAlgorithm.replace);
   }
 
   static Future<int> deleteUser(String emailId) async {
