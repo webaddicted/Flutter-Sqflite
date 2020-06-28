@@ -1,6 +1,12 @@
 # Flutter Sqflite
 
-A new Flutter application.
+[![GitHub license](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Android Weekly](https://img.shields.io/badge/Android%20Weekly-%23406-2CA3E6.svg?style=flat)](http://androidweekly.net/issues/issue-406)
+![Github Followers](https://img.shields.io/github/followers/webaddicted?label=Follow&style=social)
+![GitHub stars](https://img.shields.io/github/stars/webaddicted/Flutter-Sqflite?style=social)
+![GitHub forks](https://img.shields.io/github/forks/webaddicted/Flutter-Sqflite?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/webaddicted/Flutter-Sqflite?style=social)
+
 
 This repo cover sqflite CRUD operation. 
 
