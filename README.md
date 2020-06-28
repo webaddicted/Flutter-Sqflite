@@ -10,9 +10,20 @@
 
 This repo cover sqflite CRUD operation. 
 
+## APK
+
+***You can Install and test latest Flutter Sqflite app from below 👇***
+
+[![Flutter Sqflite](https://img.shields.io/badge/Flutter%20Sqflite-Apk-brightgreen.svg?style=for-the-badge&logo=android)](https://github.com/webaddicted/Flutter-Sqflite/tree/master/apk/FlutterSqflite.apk)
+
+
+
 ## ScreenShot
 
-<img src="https://github.com/webaddicted/Flutter-Sqflite/blob/master/screenshot/onboarding1.png" width="200">   <img src="https://github.com/webaddicted/Flutter-Sqflite/blob/master/screenshot/onboarding2.png" width="200">   <img src="https://github.com/webaddicted/Flutter-Sqflite/blob/master/screenshot/onboarding3.png" width="200">   <img src="https://github.com/webaddicted/Flutter-Sqflite/blob/master/screenshot/login.png" width="200">   <img src="https://github.com/webaddicted/Flutter-Sqflite/blob/master/screenshot/signup.png" width="200">   <img src="https://github.com/webaddicted/Flutter-Sqflite/blob/master/screenshot/home.jpg" width="200">   <img src="https://github.com/webaddicted/Flutter-Sqflite/blob/master/screenshot/update_user.jpg" width="200">   <img src="https://github.com/webaddicted/Flutter-Sqflite/blob/master/screenshot/dob.png" width="200">
+<img src="screenshot/onboarding1.png" width="200">   <img src="screenshot/onboarding2.png" width="200">
+<img src="screenshot/onboarding3.png" width="200">   <img src="screenshot/login.png" width="200">
+<img src="screenshot/signup.png" width="200">   <img src="screenshot/home.jpg" width="200">
+<img src="screenshot/update_user.jpg" width="200">   <img src="screenshot/dob.png" width="200">
 
 GIF
 -----------
